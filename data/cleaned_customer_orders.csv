@@ -1,0 +1,601 @@
+Order_ID,Customer_ID,Order_Date,Product,Category,Quantity,Unit_Price,Region,Purchase_Channel,Satisfaction_Score,Sales
+ORD00001,CUST0021,2025-02-26,Moisturizer,Beauty,3,50.57,East,Mobile App,5.0,151.71
+ORD00002,CUST0038,2026-05-09,Jeans,Clothing,2,59.36,North,Online,1.0,118.72
+ORD00003,CUST0035,2026-02-22,Jacket,Clothing,3,36.24,South,Online,3.0,108.72
+ORD00004,CUST0119,2025-10-08,Storage Box,Home & Kitchen,2,30.23,East,In-store,5.0,60.46
+ORD00005,CUST0081,2025-10-04,Jeans,Clothing,2,77.13,East,Mobile App,3.0,154.26
+ORD00006,CUST0027,2026-07-02,Lamp,Home & Kitchen,3,29.49,North,In-store,2.0,88.47
+ORD00007,CUST0020,2025-02-24,Water Bottle,Sports,4,57.22,North,In-store,3.0,228.88
+ORD00008,CUST0144,2026-03-21,Resistance Bands,Sports,1,16.68,Unknown,In-store,5.0,16.68
+ORD00009,CUST0120,2025-05-09,Face Wash,Beauty,4,85.41,South,In-store,1.0,341.64
+ORD00010,CUST0020,2025-03-02,Lamp,Home & Kitchen,1,19.56,North,Online,3.0,19.56
+ORD00011,CUST0115,2025-12-02,Lamp,Home & Kitchen,3,72.94,South,In-store,1.0,218.82
+ORD00012,CUST0109,2026-09-15,Headphones,Electronics,4,32.83,South,Online,4.0,131.32
+ORD00013,CUST0101,2026-04-15,Sunscreen,Beauty,1,33.36,West,Mobile App,4.0,33.36
+ORD00014,CUST0047,2026-05-01,T-shirt,Clothing,2,31.73,West,Mobile App,1.0,63.46
+ORD00015,CUST0058,2026-04-03,T-shirt,Clothing,3,67.02,East,Mobile App,2.0,201.06
+ORD00016,CUST0098,2026-05-17,Sneakers,Clothing,4,36.99,North,Mobile App,4.0,147.96
+ORD00017,CUST0128,2025-11-24,Headphones,Electronics,2,143.06,North,In-store,1.0,286.12
+ORD00018,CUST0109,2025-03-23,Keyboard,Electronics,3,104.32,South,Online,2.0,312.96
+ORD00019,CUST0046,2026-06-20,Jacket,Clothing,1,83.07,West,Online,3.0,83.07
+ORD00020,CUST0117,2025-10-15,Resistance Bands,Sports,4,29.13,North,Mobile App,1.0,116.52
+ORD00021,CUST0098,2025-11-16,Lamp,Home & Kitchen,1,12.69,West,Online,2.0,12.69
+ORD00022,CUST0122,2025-08-25,Headphones,Electronics,1,172.67,North,In-store,5.0,172.67
+ORD00023,CUST0001,2025-04-27,Keyboard,Electronics,1,18.95,East,Mobile App,5.0,18.95
+ORD00024,CUST0101,2026-08-15,Shampoo,Beauty,1,9.86,West,Mobile App,5.0,9.86
+ORD00025,CUST0126,2026-05-14,Moisturizer,Beauty,4,8.41,North,Online,4.0,33.64
+ORD00026,CUST0013,2026-02-15,Shampoo,Beauty,3,58.55,South,In-store,1.0,175.64999999999998
+ORD00027,CUST0041,2025-09-14,Power Bank,Electronics,1,158.5,West,In-store,3.0,158.5
+ORD00028,CUST0033,2026-06-09,Storage Box,Home & Kitchen,1,8.6,South,Online,4.0,8.6
+ORD00029,CUST0028,2025-12-14,Power Bank,Electronics,4,215.77,South,Mobile App,2.0,863.08
+ORD00030,CUST0038,2025-10-10,Storage Box,Home & Kitchen,3,17.34,East,In-store,2.0,52.019999999999996
+ORD00031,CUST0098,2025-10-15,Face Wash,Beauty,2,84.95,North,In-store,4.0,169.9
+ORD00032,CUST0147,2025-05-25,T-shirt,Clothing,2,15.13,West,Online,2.0,30.26
+ORD00033,CUST0092,2025-02-28,Sneakers,Clothing,4,58.94,South,Online,5.0,235.76
+ORD00034,CUST0139,2025-12-20,Bottle,Home & Kitchen,1,31.95,South,Online,3.0,31.95
+ORD00035,CUST0086,2026-07-21,Power Bank,Electronics,1,127.94,East,In-store,3.0,127.94
+ORD00036,CUST0052,2025-02-10,Jacket,Clothing,3,71.93,North,In-store,3.0,215.79000000000002
+ORD00037,CUST0077,2026-07-02,Jacket,Clothing,4,67.62,West,Mobile App,5.0,270.48
+ORD00038,CUST0037,2026-06-13,Cookware,Home & Kitchen,3,72.99,East,In-store,5.0,218.96999999999997
+ORD00039,CUST0011,2025-06-26,Keyboard,Electronics,1,186.5,North,Online,3.0,186.5
+ORD00040,CUST0010,2026-02-08,Power Bank,Electronics,2,74.55,West,Mobile App,1.0,149.1
+ORD00041,CUST0056,2025-04-16,Yoga Mat,Sports,2,18.06,East,Online,3.0,36.12
+ORD00042,CUST0068,2026-04-29,Resistance Bands,Sports,2,89.61,Unknown,In-store,2.0,179.22
+ORD00043,CUST0059,2026-03-23,Moisturizer,Beauty,4,59.48,North,Online,4.0,237.92
+ORD00044,CUST0063,2025-08-15,Keyboard,Electronics,3,43.17,West,In-store,5.0,129.51
+ORD00045,CUST0149,2025-02-13,Sunscreen,Beauty,4,17.04,South,Online,2.0,68.16
+ORD00046,CUST0072,2026-09-12,Moisturizer,Beauty,1,41.87,West,Online,1.0,41.87
+ORD00047,CUST0007,2025-10-12,Yoga Mat,Sports,4,24.79,South,In-store,5.0,99.16
+ORD00048,CUST0041,2026-07-24,Bottle,Home & Kitchen,3,12.15,West,In-store,5.0,36.45
+ORD00049,CUST0101,2026-03-09,Lamp,Home & Kitchen,2,69.85,North,Online,4.0,139.7
+ORD00050,CUST0050,2026-05-12,Jeans,Clothing,3,76.78,East,Mobile App,4.0,230.34
+ORD00051,CUST0137,2026-04-30,Bottle,Home & Kitchen,2,54.91,West,Online,3.0,109.82
+ORD00052,CUST0004,2025-05-05,Cookware,Home & Kitchen,2,13.92,West,In-store,5.0,27.84
+ORD00053,CUST0051,2025-08-21,Smartwatch,Electronics,1,48.62,North,Mobile App,4.0,48.62
+ORD00054,CUST0085,2025-10-25,T-shirt,Clothing,2,55.87,South,In-store,2.0,111.74
+ORD00055,CUST0148,2025-11-14,Storage Box,Home & Kitchen,3,57.73,South,Mobile App,4.0,173.19
+ORD00056,CUST0094,2025-01-28,Shampoo,Beauty,4,86.87,South,Online,5.0,347.48
+ORD00057,CUST0067,2025-12-15,Shampoo,Beauty,4,52.01,East,Mobile App,1.0,208.04
+ORD00058,CUST0146,2025-04-09,Jacket,Clothing,4,67.37,East,Online,2.0,269.48
+ORD00059,CUST0117,2026-04-20,Keyboard,Electronics,3,111.82,West,Online,2.0,335.46
+ORD00060,CUST0098,2026-03-12,T-shirt,Clothing,4,72.46,North,Mobile App,3.0,289.84
+ORD00061,CUST0124,2026-08-12,Yoga Mat,Sports,2,8.14,South,Online,2.0,16.28
+ORD00062,CUST0099,2026-04-21,Storage Box,Home & Kitchen,1,65.63,North,In-store,5.0,65.63
+ORD00063,CUST0008,2025-08-22,Face Wash,Beauty,2,24.94,East,Mobile App,3.0,49.88
+ORD00064,CUST0080,2026-09-10,Bottle,Home & Kitchen,1,62.57,West,Mobile App,3.0,62.57
+ORD00065,CUST0036,2025-09-20,Lamp,Home & Kitchen,2,77.49,South,Mobile App,5.0,154.98
+ORD00066,CUST0018,2025-07-27,Cookware,Home & Kitchen,2,38.74,East,Online,5.0,77.48
+ORD00067,CUST0052,2026-08-01,Smartwatch,Electronics,3,160.14,West,Mobile App,4.0,480.41999999999996
+ORD00068,CUST0018,2025-08-25,Jacket,Clothing,2,16.63,North,In-store,5.0,33.26
+ORD00069,CUST0059,2025-02-18,Bottle,Home & Kitchen,1,82.8,South,Online,1.0,82.8
+ORD00070,CUST0084,2025-10-27,Headphones,Electronics,2,50.82,South,In-store,3.0,101.64
+ORD00071,CUST0064,2026-05-23,Sneakers,Clothing,2,86.53,West,In-store,5.0,173.06
+ORD00072,CUST0085,2025-05-01,Dumbbells,Sports,2,24.98,West,In-store,5.0,49.96
+ORD00073,CUST0089,2025-10-23,Face Wash,Beauty,1,60.54,South,Online,2.0,60.54
+ORD00074,CUST0001,2025-03-24,Smartwatch,Electronics,2,193.35,North,Mobile App,3.0,386.7
+ORD00075,CUST0066,2026-03-14,Shampoo,Beauty,3,45.48,West,In-store,2.0,136.44
+ORD00076,CUST0071,2025-10-31,Yoga Mat,Sports,4,71.95,North,Online,3.0,287.8
+ORD00077,CUST0144,2025-07-30,Storage Box,Home & Kitchen,2,48.58,South,Online,5.0,97.16
+ORD00078,CUST0008,2025-05-25,Headphones,Electronics,4,16.71,East,Online,1.0,66.84
+ORD00079,CUST0047,2025-12-27,Storage Box,Home & Kitchen,4,9.33,North,Online,4.0,37.32
+ORD00080,CUST0147,2026-03-04,Moisturizer,Beauty,1,22.6,South,Online,2.0,22.6
+ORD00081,CUST0017,2026-08-23,Headphones,Electronics,2,190.91,North,In-store,2.0,381.82
+ORD00082,CUST0083,2025-10-06,Sneakers,Clothing,2,41.66,South,Online,5.0,83.32
+ORD00083,CUST0037,2025-04-13,Sneakers,Clothing,3,45.79,East,Online,4.0,137.37
+ORD00084,CUST0075,2026-06-16,Dumbbells,Sports,2,9.13,West,Online,4.0,18.26
+ORD00085,CUST0021,2026-02-06,Headphones,Electronics,2,202.79,North,Online,5.0,405.58
+ORD00086,CUST0072,2026-03-23,Headphones,Electronics,1,139.47,North,In-store,3.0,139.47
+ORD00087,CUST0001,2025-03-04,Sunscreen,Beauty,2,77.54,East,Online,5.0,155.08
+ORD00088,CUST0038,2025-07-19,Resistance Bands,Sports,4,26.61,East,In-store,3.0,106.44
+ORD00089,CUST0055,2026-05-05,Yoga Mat,Sports,1,74.12,South,Mobile App,1.0,74.12
+ORD00090,CUST0096,2026-06-15,Smartwatch,Electronics,3,95.77,West,Online,1.0,287.31
+ORD00091,CUST0003,2025-10-05,Jacket,Clothing,2,19.07,East,In-store,2.0,38.14
+ORD00092,CUST0023,2026-05-29,Jacket,Clothing,3,80.65,North,Online,1.0,241.95000000000002
+ORD00093,CUST0026,2026-06-21,Face Wash,Beauty,1,48.12,West,Online,5.0,48.12
+ORD00094,CUST0059,2025-09-05,Yoga Mat,Sports,1,54.69,East,Mobile App,5.0,54.69
+ORD00095,CUST0094,2026-07-27,Lamp,Home & Kitchen,1,28.22,North,In-store,1.0,28.22
+ORD00096,CUST0029,2025-07-03,Bottle,Home & Kitchen,2,76.08,North,Online,3.0,152.16
+ORD00097,CUST0039,2025-06-02,Yoga Mat,Sports,4,56.92,East,Online,4.0,227.68
+ORD00098,CUST0041,2026-03-12,Shampoo,Beauty,3,53.19,East,Online,5.0,159.57
+ORD00099,CUST0002,2026-02-11,Cookware,Home & Kitchen,4,72.66,East,Online,5.0,290.64
+ORD00100,CUST0025,2025-03-31,Water Bottle,Sports,1,38.58,South,Mobile App,1.0,38.58
+ORD00101,CUST0030,2026-06-16,Keyboard,Electronics,3,190.1,West,Online,2.0,570.3
+ORD00102,CUST0097,2025-05-08,Moisturizer,Beauty,2,79.66,South,In-store,3.0,159.32
+ORD00103,CUST0118,2026-05-29,Moisturizer,Beauty,3,53.44,North,Mobile App,4.0,160.32
+ORD00104,CUST0001,2025-01-05,Face Wash,Beauty,4,13.49,Unknown,Online,4.0,53.96
+ORD00105,CUST0057,2026-05-24,Resistance Bands,Sports,4,66.14,West,Online,4.0,264.56
+ORD00106,CUST0058,2026-05-18,Cookware,Home & Kitchen,2,54.38,North,Mobile App,4.0,108.76
+ORD00107,CUST0030,2026-05-13,Jeans,Clothing,1,37.06,South,Online,2.0,37.06
+ORD00108,CUST0004,2026-03-01,Storage Box,Home & Kitchen,1,33.86,East,Online,2.0,33.86
+ORD00109,CUST0133,2025-10-28,Moisturizer,Beauty,3,28.64,North,Online,3.0,85.92
+ORD00110,CUST0020,2026-03-26,T-shirt,Clothing,3,27.05,North,Mobile App,3.0,81.15
+ORD00111,CUST0075,2025-06-26,Bottle,Home & Kitchen,3,14.41,South,Online,2.0,43.230000000000004
+ORD00112,CUST0016,2026-05-14,Resistance Bands,Sports,4,81.64,East,Mobile App,5.0,326.56
+ORD00113,CUST0021,2025-12-21,Headphones,Electronics,2,72.55,East,Online,5.0,145.1
+ORD00114,CUST0079,2025-10-20,Bottle,Home & Kitchen,4,51.1,North,Online,2.0,204.4
+ORD00115,CUST0088,2025-11-19,Water Bottle,Sports,2,67.49,South,Online,5.0,134.98
+ORD00116,CUST0007,2025-12-29,Face Wash,Beauty,2,70.65,East,Online,5.0,141.3
+ORD00117,CUST0016,2025-01-24,Yoga Mat,Sports,3,27.49,West,Online,4.0,82.47
+ORD00118,CUST0132,2025-03-31,Jacket,Clothing,2,25.85,North,Mobile App,5.0,51.7
+ORD00119,CUST0080,2025-06-06,Jeans,Clothing,3,26.11,North,Online,1.0,78.33
+ORD00120,CUST0050,2025-03-15,Water Bottle,Sports,4,71.08,South,In-store,3.0,284.32
+ORD00121,CUST0066,2025-10-08,Cookware,Home & Kitchen,4,16.2,North,Mobile App,1.0,64.8
+ORD00122,CUST0056,2026-03-03,Water Bottle,Sports,2,18.9,West,Online,2.0,37.8
+ORD00123,CUST0018,2026-02-22,Headphones,Electronics,2,202.37,South,In-store,1.0,404.74
+ORD00124,CUST0100,2025-10-28,T-shirt,Clothing,2,50.21,West,Mobile App,5.0,100.42
+ORD00125,CUST0071,2026-06-30,Shampoo,Beauty,2,17.99,West,Online,3.0,35.98
+ORD00126,CUST0099,2025-12-27,Jacket,Clothing,1,72.53,North,Mobile App,4.0,72.53
+ORD00127,CUST0139,2025-02-20,Smartwatch,Electronics,1,100.85,East,Online,3.0,100.85
+ORD00128,CUST0060,2026-05-04,Jeans,Clothing,4,10.28,West,Online,1.0,41.12
+ORD00129,CUST0059,2026-01-02,Lamp,Home & Kitchen,2,83.36,South,In-store,4.0,166.72
+ORD00130,CUST0011,2026-02-09,Cookware,Home & Kitchen,2,55.97,East,Online,5.0,111.94
+ORD00131,CUST0102,2025-12-27,Power Bank,Electronics,1,187.35,North,Online,2.0,187.35
+ORD00132,CUST0068,2025-12-20,Sunscreen,Beauty,4,89.3,West,Online,4.0,357.2
+ORD00133,CUST0055,2025-02-27,Dumbbells,Sports,3,67.77,South,In-store,1.0,203.31
+ORD00134,CUST0050,2025-12-23,Cookware,Home & Kitchen,3,82.1,North,Online,4.0,246.29999999999998
+ORD00135,CUST0067,2026-05-23,Sneakers,Clothing,2,15.69,North,In-store,1.0,31.38
+ORD00136,CUST0134,2025-07-13,Cookware,Home & Kitchen,3,6.68,West,Mobile App,1.0,20.04
+ORD00137,CUST0038,2026-01-20,Yoga Mat,Sports,4,61.77,North,Online,4.0,247.08
+ORD00138,CUST0138,2025-01-20,Sneakers,Clothing,1,62.35,East,In-store,2.0,62.35
+ORD00139,CUST0143,2025-08-10,Sunscreen,Beauty,4,56.86,South,In-store,1.0,227.44
+ORD00140,CUST0067,2025-10-06,Water Bottle,Sports,2,38.97,East,Online,1.0,77.94
+ORD00141,CUST0092,2026-09-19,Yoga Mat,Sports,4,42.74,West,Mobile App,2.0,170.96
+ORD00142,CUST0067,2025-05-17,Lamp,Home & Kitchen,2,46.64,West,Online,2.0,93.28
+ORD00143,CUST0139,2025-06-26,Resistance Bands,Sports,4,76.68,West,In-store,5.0,306.72
+ORD00144,CUST0094,2025-09-18,Moisturizer,Beauty,4,45.85,East,In-store,2.0,183.4
+ORD00145,CUST0039,2026-09-26,Jeans,Clothing,2,54.81,South,Online,4.0,109.62
+ORD00146,CUST0055,2026-06-29,Yoga Mat,Sports,4,19.25,North,Mobile App,2.0,77.0
+ORD00147,CUST0021,2025-01-23,Sunscreen,Beauty,1,70.82,North,Online,3.0,70.82
+ORD00148,CUST0004,2025-05-30,Smartwatch,Electronics,4,40.64,South,Mobile App,4.0,162.56
+ORD00149,CUST0011,2026-06-09,Water Bottle,Sports,3,16.73,West,Online,3.0,50.19
+ORD00150,CUST0107,2025-02-07,Storage Box,Home & Kitchen,4,14.51,East,Online,1.0,58.04
+ORD00151,CUST0076,2026-06-30,Storage Box,Home & Kitchen,1,63.32,East,Mobile App,1.0,63.32
+ORD00152,CUST0103,2025-06-29,Lamp,Home & Kitchen,4,13.09,North,Online,5.0,52.36
+ORD00153,CUST0064,2026-08-09,Jeans,Clothing,1,9.37,East,Online,2.0,9.37
+ORD00154,CUST0141,2025-07-07,Moisturizer,Beauty,4,74.8,South,In-store,2.0,299.2
+ORD00155,CUST0074,2025-10-05,Moisturizer,Beauty,1,80.91,North,Mobile App,5.0,80.91
+ORD00156,CUST0043,2026-02-27,Headphones,Electronics,1,121.17,East,Online,1.0,121.17
+ORD00157,CUST0117,2025-03-22,Jeans,Clothing,4,7.96,East,Mobile App,2.0,31.84
+ORD00158,CUST0041,2025-12-22,Keyboard,Electronics,1,190.49,East,Mobile App,3.0,190.49
+ORD00159,CUST0060,2025-11-19,Power Bank,Electronics,2,164.41,South,In-store,2.0,328.82
+ORD00160,CUST0047,2026-05-16,Moisturizer,Beauty,3,44.5,South,Online,2.0,133.5
+ORD00161,CUST0018,2026-09-28,Moisturizer,Beauty,4,12.31,North,Online,1.0,49.24
+ORD00162,CUST0129,2026-02-28,T-shirt,Clothing,4,89.18,West,Online,4.0,356.72
+ORD00163,CUST0132,2025-09-19,Sneakers,Clothing,1,87.93,West,Online,4.0,87.93
+ORD00164,CUST0038,2025-09-17,Lamp,Home & Kitchen,1,29.57,North,In-store,3.0,29.57
+ORD00165,CUST0107,2025-09-24,Sunscreen,Beauty,2,7.26,North,In-store,2.0,14.52
+ORD00166,CUST0039,2026-06-04,Sneakers,Clothing,2,40.59,North,In-store,5.0,81.18
+ORD00167,CUST0041,2025-07-24,T-shirt,Clothing,4,49.36,South,In-store,4.0,197.44
+ORD00168,CUST0002,2025-04-17,Headphones,Electronics,3,8.23,East,In-store,5.0,24.69
+ORD00169,CUST0134,2025-08-02,Keyboard,Electronics,4,107.63,South,Mobile App,3.0,430.52
+ORD00170,CUST0070,2025-01-15,Headphones,Electronics,1,132.18,South,Online,4.0,132.18
+ORD00171,CUST0032,2025-03-09,Power Bank,Electronics,2,97.62,North,Online,4.0,195.24
+ORD00172,CUST0037,2025-02-27,T-shirt,Clothing,4,35.66,East,Online,2.0,142.64
+ORD00173,CUST0031,2026-05-08,Bottle,Home & Kitchen,2,80.51,West,Online,4.0,161.02
+ORD00174,CUST0062,2026-04-06,Headphones,Electronics,1,139.35,North,In-store,5.0,139.35
+ORD00175,CUST0079,2026-03-21,Moisturizer,Beauty,3,89.72,North,Online,1.0,269.15999999999997
+ORD00176,CUST0138,2025-10-22,Resistance Bands,Sports,2,54.03,West,Mobile App,1.0,108.06
+ORD00177,CUST0075,2026-04-03,Storage Box,Home & Kitchen,3,87.53,South,Online,4.0,262.59000000000003
+ORD00178,CUST0033,2025-04-13,Headphones,Electronics,3,76.07,West,Mobile App,1.0,228.20999999999998
+ORD00179,CUST0054,2026-07-29,Cookware,Home & Kitchen,3,39.74,South,In-store,2.0,119.22
+ORD00180,CUST0116,2025-11-16,Dumbbells,Sports,4,38.28,South,In-store,3.0,153.12
+ORD00181,CUST0099,2026-08-22,Jeans,Clothing,2,52.12,South,Online,1.0,104.24
+ORD00182,CUST0076,2025-04-08,Power Bank,Electronics,2,43.21,West,Online,2.0,86.42
+ORD00183,CUST0114,2025-11-14,Lamp,Home & Kitchen,4,26.88,West,Mobile App,1.0,107.52
+ORD00184,CUST0099,2026-03-21,Storage Box,Home & Kitchen,3,9.47,West,Mobile App,2.0,28.410000000000004
+ORD00185,CUST0001,2025-11-13,Storage Box,Home & Kitchen,4,8.28,East,In-store,1.0,33.12
+ORD00186,CUST0036,2025-10-12,Moisturizer,Beauty,1,77.43,North,Online,3.0,77.43
+ORD00187,CUST0050,2025-04-17,Shampoo,Beauty,4,79.69,South,In-store,1.0,318.76
+ORD00188,CUST0023,2025-09-01,Smartwatch,Electronics,2,172.28,North,Mobile App,3.0,344.56
+ORD00189,CUST0129,2025-06-02,Resistance Bands,Sports,4,20.95,East,Mobile App,3.0,83.8
+ORD00190,CUST0076,2025-07-12,Smartwatch,Electronics,2,179.92,North,Mobile App,3.0,359.84
+ORD00191,CUST0064,2026-03-13,Bottle,Home & Kitchen,4,36.45,South,Online,5.0,145.8
+ORD00192,CUST0106,2026-02-07,Moisturizer,Beauty,4,29.17,East,Online,5.0,116.68
+ORD00193,CUST0070,2026-01-23,Lamp,Home & Kitchen,3,63.66,North,In-store,1.0,190.98
+ORD00194,CUST0088,2025-08-19,Cookware,Home & Kitchen,2,8.41,West,Online,3.0,16.82
+ORD00195,CUST0029,2026-09-05,Headphones,Electronics,3,80.96,North,Mobile App,1.0,242.88
+ORD00196,CUST0037,2025-02-25,Face Wash,Beauty,2,87.83,East,Mobile App,4.0,175.66
+ORD00197,CUST0065,2025-08-07,Cookware,Home & Kitchen,2,41.64,North,In-store,2.0,83.28
+ORD00198,CUST0031,2025-03-17,Water Bottle,Sports,4,8.43,East,Mobile App,2.0,33.72
+ORD00199,CUST0141,2025-08-05,Keyboard,Electronics,2,185.54,North,Online,1.0,371.08
+ORD00200,CUST0011,2026-09-06,Keyboard,Electronics,4,121.4,West,Online,3.0,485.6
+ORD00201,CUST0010,2025-08-22,Jeans,Clothing,4,87.34,South,Online,3.0,349.36
+ORD00202,CUST0102,2026-08-03,Resistance Bands,Sports,2,13.01,North,Mobile App,4.0,26.02
+ORD00203,CUST0127,2025-11-12,Water Bottle,Sports,3,85.19,North,Mobile App,2.0,255.57
+ORD00204,CUST0033,2026-03-23,Storage Box,Home & Kitchen,3,81.41,South,In-store,4.0,244.23
+ORD00205,CUST0058,2025-10-19,T-shirt,Clothing,4,35.74,South,Online,4.0,142.96
+ORD00206,CUST0030,2025-06-19,Shampoo,Beauty,1,42.92,West,Online,4.0,42.92
+ORD00207,CUST0031,2026-05-03,Keyboard,Electronics,4,214.86,North,In-store,4.0,859.44
+ORD00208,CUST0085,2026-09-11,Yoga Mat,Sports,4,25.09,South,Online,1.0,100.36
+ORD00209,CUST0086,2025-06-18,Smartwatch,Electronics,1,201.44,East,In-store,4.0,201.44
+ORD00210,CUST0098,2026-05-12,Shampoo,Beauty,1,57.51,East,Online,5.0,57.51
+ORD00211,CUST0034,2025-06-16,Power Bank,Electronics,2,100.82,West,Online,2.0,201.64
+ORD00212,CUST0093,2026-04-03,Cookware,Home & Kitchen,4,20.54,North,In-store,4.0,82.16
+ORD00213,CUST0035,2026-05-19,Sneakers,Clothing,4,66.36,North,Mobile App,4.0,265.44
+ORD00214,CUST0080,2025-10-14,Power Bank,Electronics,1,113.5,North,Online,3.0,113.5
+ORD00215,CUST0073,2026-04-16,Resistance Bands,Sports,1,45.63,South,Online,4.0,45.63
+ORD00216,CUST0092,2025-06-23,Headphones,Electronics,3,143.17,East,Online,5.0,429.51
+ORD00217,CUST0072,2025-02-20,Resistance Bands,Sports,2,10.13,West,In-store,4.0,20.26
+ORD00218,CUST0029,2025-03-03,Sneakers,Clothing,4,59.22,West,Online,4.0,236.88
+ORD00219,CUST0101,2025-10-13,Lamp,Home & Kitchen,4,86.65,South,Online,4.0,346.6
+ORD00220,CUST0074,2026-07-30,Cookware,Home & Kitchen,4,67.61,East,In-store,2.0,270.44
+ORD00221,CUST0030,2025-03-23,Headphones,Electronics,2,140.89,East,Mobile App,4.0,281.78
+ORD00222,CUST0121,2025-10-18,Headphones,Electronics,2,210.68,South,Online,1.0,421.36
+ORD00223,CUST0133,2026-03-26,Bottle,Home & Kitchen,1,69.65,East,Online,4.0,69.65
+ORD00224,CUST0059,2025-05-10,Jeans,Clothing,2,17.53,North,Online,2.0,35.06
+ORD00225,CUST0106,2026-04-06,Cookware,Home & Kitchen,4,10.94,South,Mobile App,3.0,43.76
+ORD00226,CUST0066,2025-07-15,Shampoo,Beauty,3,43.1,South,Online,2.0,129.3
+ORD00227,CUST0071,2026-05-31,Power Bank,Electronics,1,91.12,North,In-store,1.0,91.12
+ORD00228,CUST0003,2026-01-05,Jeans,Clothing,2,16.13,East,Online,2.0,32.26
+ORD00229,CUST0115,2025-12-15,Smartwatch,Electronics,3,205.16,South,In-store,1.0,615.48
+ORD00230,CUST0067,2025-04-23,Resistance Bands,Sports,4,57.15,West,Mobile App,5.0,228.6
+ORD00231,CUST0013,2025-10-23,Jacket,Clothing,4,6.34,South,In-store,3.0,25.36
+ORD00232,CUST0097,2026-07-01,Storage Box,Home & Kitchen,2,51.93,West,Online,1.0,103.86
+ORD00233,CUST0128,2025-01-13,Sunscreen,Beauty,1,89.56,West,Mobile App,1.0,89.56
+ORD00234,CUST0124,2026-04-29,Jacket,Clothing,2,27.79,East,Online,5.0,55.58
+ORD00235,CUST0045,2025-11-11,Bottle,Home & Kitchen,3,19.43,North,Online,4.0,58.29
+ORD00236,CUST0001,2026-04-05,Jacket,Clothing,4,75.9,East,Online,1.0,303.6
+ORD00237,CUST0040,2026-02-28,Shampoo,Beauty,4,82.63,North,In-store,5.0,330.52
+ORD00238,CUST0052,2025-10-03,Keyboard,Electronics,4,66.56,East,Online,2.0,266.24
+ORD00239,CUST0038,2025-07-16,Jacket,Clothing,3,70.94,West,Online,4.0,212.82
+ORD00240,CUST0086,2026-02-05,Power Bank,Electronics,4,8.91,South,Online,5.0,35.64
+ORD00241,CUST0078,2025-03-31,Keyboard,Electronics,4,179.71,North,Online,2.0,718.84
+ORD00242,CUST0026,2026-01-08,T-shirt,Clothing,3,21.05,East,Online,3.0,63.150000000000006
+ORD00243,CUST0097,2025-03-02,Yoga Mat,Sports,3,63.68,West,Online,4.0,191.04
+ORD00244,CUST0149,2026-02-19,Water Bottle,Sports,2,25.9,North,Online,4.0,51.8
+ORD00245,CUST0031,2026-02-06,Jeans,Clothing,1,20.76,South,Online,1.0,20.76
+ORD00246,CUST0096,2025-02-23,Dumbbells,Sports,4,73.23,East,Online,2.0,292.92
+ORD00247,CUST0142,2026-04-29,Keyboard,Electronics,1,93.23,North,Mobile App,4.0,93.23
+ORD00248,CUST0118,2025-09-23,Power Bank,Electronics,2,42.33,South,Online,4.0,84.66
+ORD00249,CUST0128,2026-05-18,Yoga Mat,Sports,3,77.11,North,Online,5.0,231.32999999999998
+ORD00250,CUST0081,2025-01-27,Sneakers,Clothing,4,57.61,East,Mobile App,1.0,230.44
+ORD00251,CUST0110,2025-04-25,Yoga Mat,Sports,1,42.5,West,In-store,5.0,42.5
+ORD00252,CUST0094,2025-11-12,Moisturizer,Beauty,3,68.69,South,Online,1.0,206.07
+ORD00253,CUST0076,2025-05-01,Storage Box,Home & Kitchen,3,54.52,South,Mobile App,5.0,163.56
+ORD00254,CUST0044,2025-07-30,Jacket,Clothing,4,67.6,South,Online,3.0,270.4
+ORD00255,CUST0145,2026-02-26,Shampoo,Beauty,2,66.36,West,Mobile App,2.0,132.72
+ORD00256,CUST0011,2025-04-03,Storage Box,Home & Kitchen,2,45.28,North,Online,1.0,90.56
+ORD00257,CUST0043,2026-03-09,Water Bottle,Sports,1,71.96,South,Mobile App,3.0,71.96
+ORD00258,CUST0032,2025-03-07,Jeans,Clothing,4,70.47,North,In-store,4.0,281.88
+ORD00259,CUST0004,2025-04-22,Shampoo,Beauty,4,23.71,East,In-store,4.0,94.84
+ORD00260,CUST0123,2026-01-10,Keyboard,Electronics,2,81.83,West,Online,1.0,163.66
+ORD00261,CUST0008,2026-05-22,Water Bottle,Sports,4,68.72,South,Mobile App,2.0,274.88
+ORD00262,CUST0083,2025-04-19,Water Bottle,Sports,3,23.35,South,Online,4.0,70.05000000000001
+ORD00263,CUST0005,2025-07-11,Smartwatch,Electronics,2,211.21,East,In-store,2.0,422.42
+ORD00264,CUST0019,2026-08-14,Cookware,Home & Kitchen,3,45.47,North,Online,4.0,136.41
+ORD00265,CUST0122,2026-09-24,Resistance Bands,Sports,4,34.71,East,Online,2.0,138.84
+ORD00266,CUST0124,2026-01-06,Dumbbells,Sports,4,83.36,West,Online,1.0,333.44
+ORD00267,CUST0019,2025-10-13,Headphones,Electronics,1,23.12,West,Online,1.0,23.12
+ORD00268,CUST0013,2025-08-10,Shampoo,Beauty,1,54.32,North,Mobile App,4.0,54.32
+ORD00269,CUST0079,2026-01-26,Cookware,Home & Kitchen,2,65.58,South,Online,1.0,131.16
+ORD00270,CUST0118,2026-01-13,Smartwatch,Electronics,2,176.87,South,Online,1.0,353.74
+ORD00271,CUST0050,2025-07-08,Sunscreen,Beauty,3,63.31,West,Online,5.0,189.93
+ORD00272,CUST0068,2025-01-15,Jacket,Clothing,4,23.41,East,Online,5.0,93.64
+ORD00273,CUST0044,2025-04-07,Cookware,Home & Kitchen,1,52.11,East,In-store,1.0,52.11
+ORD00274,CUST0093,2026-09-04,Power Bank,Electronics,3,155.03,East,Online,4.0,465.09000000000003
+ORD00275,CUST0062,2025-09-24,Sneakers,Clothing,1,12.37,North,Online,5.0,12.37
+ORD00276,CUST0070,2025-11-04,Power Bank,Electronics,3,183.91,North,Online,4.0,551.73
+ORD00277,CUST0093,2025-10-26,Storage Box,Home & Kitchen,1,83.88,South,In-store,4.0,83.88
+ORD00278,CUST0062,2026-05-15,Sunscreen,Beauty,3,11.11,East,Mobile App,3.0,33.33
+ORD00279,CUST0071,2025-02-11,Lamp,Home & Kitchen,3,86.79,South,Online,3.0,260.37
+ORD00280,CUST0097,2025-02-22,Smartwatch,Electronics,1,8.12,South,In-store,4.0,8.12
+ORD00281,CUST0086,2025-06-25,Headphones,Electronics,1,40.71,West,Online,3.0,40.71
+ORD00282,CUST0047,2025-11-07,Jeans,Clothing,3,59.53,South,Online,4.0,178.59
+ORD00283,CUST0076,2026-03-05,Dumbbells,Sports,4,69.27,West,Mobile App,5.0,277.08
+ORD00284,CUST0103,2025-11-10,Jeans,Clothing,1,26.29,East,Mobile App,3.0,26.29
+ORD00285,CUST0080,2025-10-09,Water Bottle,Sports,1,59.32,West,Mobile App,2.0,59.32
+ORD00286,CUST0034,2026-08-22,Cookware,Home & Kitchen,1,75.79,West,Mobile App,3.0,75.79
+ORD00287,CUST0136,2025-04-13,Resistance Bands,Sports,4,72.87,South,Online,4.0,291.48
+ORD00288,CUST0087,2025-12-31,Lamp,Home & Kitchen,3,47.97,South,In-store,3.0,143.91
+ORD00289,CUST0050,2025-12-12,Jeans,Clothing,2,15.81,North,Mobile App,5.0,31.62
+ORD00290,CUST0148,2025-10-30,Power Bank,Electronics,2,168.98,North,Online,1.0,337.96
+ORD00291,CUST0099,2026-05-31,Power Bank,Electronics,2,66.31,North,Online,5.0,132.62
+ORD00292,CUST0016,2025-06-20,Headphones,Electronics,3,187.94,East,Online,4.0,563.8199999999999
+ORD00293,CUST0011,2026-09-01,Jacket,Clothing,2,73.23,West,Online,3.0,146.46
+ORD00294,CUST0103,2025-07-31,Yoga Mat,Sports,1,51.71,West,In-store,2.0,51.71
+ORD00295,CUST0090,2025-12-14,Shampoo,Beauty,1,86.02,South,Online,5.0,86.02
+ORD00296,CUST0111,2025-11-29,T-shirt,Clothing,2,24.08,North,In-store,2.0,48.16
+ORD00297,CUST0066,2026-06-27,Headphones,Electronics,2,144.53,East,Mobile App,3.0,289.06
+ORD00298,CUST0130,2025-10-08,Moisturizer,Beauty,4,13.74,East,Online,4.0,54.96
+ORD00299,CUST0034,2025-07-01,Headphones,Electronics,4,104.44,South,Online,1.0,417.76
+ORD00300,CUST0092,2025-01-14,Resistance Bands,Sports,4,22.11,East,Mobile App,1.0,88.44
+ORD00301,CUST0002,2025-08-21,Water Bottle,Sports,3,69.86,West,Mobile App,2.0,209.57999999999998
+ORD00302,CUST0011,2026-06-12,Storage Box,Home & Kitchen,4,11.64,North,In-store,4.0,46.56
+ORD00303,CUST0086,2025-01-07,Jacket,Clothing,3,18.05,East,Online,4.0,54.150000000000006
+ORD00304,CUST0109,2026-07-26,Sunscreen,Beauty,3,45.16,East,Mobile App,2.0,135.48
+ORD00305,CUST0056,2025-12-13,Moisturizer,Beauty,1,19.86,North,Online,3.0,19.86
+ORD00306,CUST0143,2025-03-31,Shampoo,Beauty,4,23.3,East,Mobile App,2.0,93.2
+ORD00307,CUST0093,2025-07-12,T-shirt,Clothing,3,83.77,South,In-store,4.0,251.31
+ORD00308,CUST0101,2025-12-20,Power Bank,Electronics,4,26.74,West,Online,2.0,106.96
+ORD00309,CUST0114,2025-07-21,Jacket,Clothing,4,29.24,South,Mobile App,4.0,116.96
+ORD00310,CUST0121,2025-03-11,Shampoo,Beauty,3,42.94,South,Online,4.0,128.82
+ORD00311,CUST0074,2026-03-01,Dumbbells,Sports,3,17.04,North,In-store,1.0,51.12
+ORD00312,CUST0032,2026-03-05,Jeans,Clothing,1,16.88,East,In-store,3.0,16.88
+ORD00313,CUST0005,2025-03-17,Jeans,Clothing,2,57.22,South,In-store,4.0,114.44
+ORD00314,CUST0051,2025-06-29,Smartwatch,Electronics,1,60.64,South,Mobile App,2.0,60.64
+ORD00315,CUST0080,2025-06-05,T-shirt,Clothing,4,55.45,North,In-store,4.0,221.8
+ORD00316,CUST0015,2026-02-25,Sneakers,Clothing,2,13.52,West,Online,5.0,27.04
+ORD00317,CUST0115,2026-04-11,Storage Box,Home & Kitchen,1,29.21,West,In-store,2.0,29.21
+ORD00318,CUST0055,2026-04-09,Dumbbells,Sports,4,8.6,West,Online,3.0,34.4
+ORD00319,CUST0149,2026-08-22,T-shirt,Clothing,1,6.38,South,Mobile App,3.0,6.38
+ORD00320,CUST0044,2026-05-06,Jeans,Clothing,2,88.13,North,Online,1.0,176.26
+ORD00321,CUST0040,2025-07-24,Yoga Mat,Sports,4,47.85,North,Online,1.0,191.4
+ORD00322,CUST0147,2025-03-10,Cookware,Home & Kitchen,4,87.55,West,Mobile App,3.0,350.2
+ORD00323,CUST0042,2026-01-28,Sneakers,Clothing,1,77.72,South,In-store,5.0,77.72
+ORD00324,CUST0030,2026-08-08,Headphones,Electronics,4,71.9,South,Online,2.0,287.6
+ORD00325,CUST0028,2026-09-15,Cookware,Home & Kitchen,2,62.36,South,Online,3.0,124.72
+ORD00326,CUST0098,2025-05-27,Moisturizer,Beauty,2,44.65,North,In-store,5.0,89.3
+ORD00327,CUST0136,2025-05-31,Power Bank,Electronics,1,80.64,North,In-store,3.0,80.64
+ORD00328,CUST0052,2025-01-24,Headphones,Electronics,1,166.39,South,Mobile App,5.0,166.39
+ORD00329,CUST0107,2025-04-01,Lamp,Home & Kitchen,1,65.65,West,Online,3.0,65.65
+ORD00330,CUST0118,2025-12-20,Bottle,Home & Kitchen,1,50.33,South,Online,4.0,50.33
+ORD00331,CUST0040,2025-12-15,Resistance Bands,Sports,3,8.36,North,Online,2.0,25.08
+ORD00332,CUST0041,2025-08-25,Headphones,Electronics,2,67.22,West,Online,2.0,134.44
+ORD00333,CUST0050,2025-07-17,Jacket,Clothing,2,12.63,North,Online,2.0,25.26
+ORD00334,CUST0007,2026-06-14,Water Bottle,Sports,4,83.92,West,Online,3.0,335.68
+ORD00335,CUST0115,2025-10-21,Moisturizer,Beauty,1,76.76,West,Online,1.0,76.76
+ORD00336,CUST0011,2026-05-31,Shampoo,Beauty,4,31.22,South,Mobile App,1.0,124.88
+ORD00337,CUST0014,2026-09-07,Face Wash,Beauty,1,60.78,North,Mobile App,4.0,60.78
+ORD00338,CUST0053,2025-07-22,Bottle,Home & Kitchen,4,77.83,West,Online,2.0,311.32
+ORD00339,CUST0068,2025-05-10,Keyboard,Electronics,3,64.23,South,Online,1.0,192.69
+ORD00340,CUST0138,2026-08-31,Jeans,Clothing,4,80.97,West,In-store,2.0,323.88
+ORD00341,CUST0039,2026-02-10,T-shirt,Clothing,2,47.73,North,Online,4.0,95.46
+ORD00342,CUST0145,2025-07-05,Jeans,Clothing,3,75.03,East,Mobile App,5.0,225.09
+ORD00343,CUST0126,2026-02-01,Resistance Bands,Sports,3,17.08,East,Online,2.0,51.239999999999995
+ORD00344,CUST0025,2025-11-25,Storage Box,Home & Kitchen,4,27.39,West,In-store,1.0,109.56
+ORD00345,CUST0009,2026-08-01,Face Wash,Beauty,2,55.82,West,Online,3.0,111.64
+ORD00346,CUST0057,2025-06-13,T-shirt,Clothing,3,61.35,South,Mobile App,5.0,184.05
+ORD00347,CUST0049,2026-09-25,Smartwatch,Electronics,2,132.58,East,Online,3.0,265.16
+ORD00348,CUST0115,2026-08-21,Smartwatch,Electronics,1,219.95,South,In-store,5.0,219.95
+ORD00349,CUST0014,2025-04-26,Water Bottle,Sports,4,14.69,West,Mobile App,2.0,58.76
+ORD00350,CUST0111,2025-04-16,Jeans,Clothing,2,43.46,South,Mobile App,1.0,86.92
+ORD00351,CUST0106,2025-12-07,Jacket,Clothing,2,10.71,North,In-store,1.0,21.42
+ORD00352,CUST0120,2025-01-29,Storage Box,Home & Kitchen,2,12.99,West,Mobile App,4.0,25.98
+ORD00353,CUST0049,2025-07-10,Keyboard,Electronics,4,86.09,East,Online,5.0,344.36
+ORD00354,CUST0100,2025-10-05,Jeans,Clothing,1,26.64,North,Online,1.0,26.64
+ORD00355,CUST0059,2026-09-11,Lamp,Home & Kitchen,2,34.36,East,Mobile App,1.0,68.72
+ORD00356,CUST0045,2026-09-26,Lamp,Home & Kitchen,2,87.13,North,Mobile App,5.0,174.26
+ORD00357,CUST0065,2025-04-07,Power Bank,Electronics,3,156.04,West,Online,1.0,468.12
+ORD00358,CUST0106,2026-07-23,Storage Box,Home & Kitchen,1,15.76,North,In-store,3.0,15.76
+ORD00359,CUST0095,2025-02-28,Dumbbells,Sports,3,57.06,West,Mobile App,3.0,171.18
+ORD00360,CUST0107,2026-04-23,Headphones,Electronics,4,125.91,North,In-store,5.0,503.64
+ORD00361,CUST0029,2026-06-24,Jacket,Clothing,1,33.82,East,Online,4.0,33.82
+ORD00362,CUST0013,2026-07-23,Yoga Mat,Sports,1,69.96,South,Mobile App,2.0,69.96
+ORD00363,CUST0092,2025-05-23,Sunscreen,Beauty,3,31.15,South,Online,1.0,93.44999999999999
+ORD00364,CUST0144,2026-07-25,Power Bank,Electronics,3,9.03,West,In-store,5.0,27.089999999999996
+ORD00365,CUST0073,2025-03-15,T-shirt,Clothing,1,42.07,South,In-store,3.0,42.07
+ORD00366,CUST0093,2025-11-28,Storage Box,Home & Kitchen,2,81.34,West,Online,1.0,162.68
+ORD00367,CUST0053,2025-10-27,Smartwatch,Electronics,4,68.94,North,Mobile App,5.0,275.76
+ORD00368,CUST0143,2025-07-21,Yoga Mat,Sports,2,7.77,North,Online,3.0,15.54
+ORD00369,CUST0148,2025-01-15,T-shirt,Clothing,2,22.76,North,In-store,3.0,45.52
+ORD00370,CUST0047,2026-05-08,Storage Box,Home & Kitchen,2,37.02,South,Online,1.0,74.04
+ORD00371,CUST0131,2025-08-03,Lamp,Home & Kitchen,1,36.41,East,Online,2.0,36.41
+ORD00372,CUST0143,2026-02-27,Smartwatch,Electronics,1,162.31,North,Online,4.0,162.31
+ORD00373,CUST0126,2025-09-19,Dumbbells,Sports,3,12.56,North,Online,3.0,37.68
+ORD00374,CUST0116,2025-08-27,Smartwatch,Electronics,4,124.23,South,In-store,4.0,496.92
+ORD00375,CUST0149,2026-07-20,Lamp,Home & Kitchen,4,17.76,West,Online,2.0,71.04
+ORD00376,CUST0138,2025-03-02,Water Bottle,Sports,2,61.54,West,Online,2.0,123.08
+ORD00377,CUST0079,2026-04-15,Jeans,Clothing,2,44.29,South,Online,4.0,88.58
+ORD00378,CUST0121,2026-04-22,Sneakers,Clothing,2,17.75,North,Online,4.0,35.5
+ORD00379,CUST0128,2025-08-31,Moisturizer,Beauty,4,25.19,North,Online,1.0,100.76
+ORD00380,CUST0041,2025-06-17,Face Wash,Beauty,1,88.91,South,Online,4.0,88.91
+ORD00381,CUST0114,2025-01-04,Lamp,Home & Kitchen,2,35.53,North,In-store,1.0,71.06
+ORD00382,CUST0076,2026-08-21,T-shirt,Clothing,4,21.11,South,In-store,3.0,84.44
+ORD00383,CUST0113,2026-08-28,Moisturizer,Beauty,3,80.87,West,Online,3.0,242.61
+ORD00384,CUST0081,2025-06-03,Sneakers,Clothing,3,33.03,East,Mobile App,4.0,99.09
+ORD00385,CUST0081,2025-01-21,Jeans,Clothing,1,46.4,North,Online,5.0,46.4
+ORD00386,CUST0115,2025-03-20,Headphones,Electronics,3,205.47,North,Mobile App,1.0,616.41
+ORD00387,CUST0136,2025-02-13,Headphones,Electronics,1,161.85,North,In-store,5.0,161.85
+ORD00388,CUST0134,2026-06-15,Sunscreen,Beauty,3,75.4,West,Online,3.0,226.20000000000002
+ORD00389,CUST0144,2026-07-24,Face Wash,Beauty,1,54.94,East,Online,4.0,54.94
+ORD00390,CUST0001,2025-04-08,Yoga Mat,Sports,4,18.63,East,In-store,3.0,74.52
+ORD00391,CUST0008,2026-04-22,Storage Box,Home & Kitchen,1,39.36,East,In-store,2.0,39.36
+ORD00392,CUST0043,2025-04-25,Shampoo,Beauty,3,59.53,West,In-store,4.0,178.59
+ORD00393,CUST0016,2025-08-23,Storage Box,Home & Kitchen,4,28.22,East,Mobile App,3.0,112.88
+ORD00394,CUST0028,2026-01-18,Headphones,Electronics,3,133.56,North,Mobile App,4.0,400.68
+ORD00395,CUST0089,2026-04-05,Lamp,Home & Kitchen,4,33.78,South,Mobile App,1.0,135.12
+ORD00396,CUST0050,2026-07-12,Bottle,Home & Kitchen,3,36.3,West,Online,1.0,108.89999999999999
+ORD00397,CUST0142,2025-01-29,Sneakers,Clothing,4,47.94,North,Online,2.0,191.76
+ORD00398,CUST0126,2025-05-06,Shampoo,Beauty,2,37.58,West,Online,5.0,75.16
+ORD00399,CUST0144,2025-06-28,Bottle,Home & Kitchen,4,39.18,North,Mobile App,5.0,156.72
+ORD00400,CUST0097,2025-07-17,Bottle,Home & Kitchen,4,51.94,East,In-store,5.0,207.76
+ORD00401,CUST0103,2026-09-29,Smartwatch,Electronics,3,209.51,West,Online,5.0,628.53
+ORD00402,CUST0009,2026-05-11,Water Bottle,Sports,1,84.65,West,Online,4.0,84.65
+ORD00403,CUST0018,2025-07-24,Jacket,Clothing,4,13.22,North,Mobile App,2.0,52.88
+ORD00404,CUST0150,2026-09-13,Headphones,Electronics,1,124.31,South,In-store,1.0,124.31
+ORD00405,CUST0094,2025-11-15,Jeans,Clothing,4,82.54,North,Mobile App,1.0,330.16
+ORD00406,CUST0081,2025-11-16,Sunscreen,Beauty,4,58.66,East,In-store,4.0,234.64
+ORD00407,CUST0144,2025-10-04,Headphones,Electronics,1,132.15,West,Online,2.0,132.15
+ORD00408,CUST0001,2025-04-02,Cookware,Home & Kitchen,1,48.11,East,Online,2.0,48.11
+ORD00409,CUST0057,2026-08-20,Cookware,Home & Kitchen,4,87.44,North,Online,5.0,349.76
+ORD00410,CUST0017,2025-01-09,Lamp,Home & Kitchen,2,47.44,West,Online,5.0,94.88
+ORD00411,CUST0004,2025-04-22,Moisturizer,Beauty,4,27.3,South,Online,5.0,109.2
+ORD00412,CUST0038,2025-05-27,Lamp,Home & Kitchen,3,68.47,East,Online,4.0,205.41
+ORD00413,CUST0015,2025-06-28,Headphones,Electronics,3,146.86,West,Online,4.0,440.58000000000004
+ORD00414,CUST0056,2025-03-26,Sunscreen,Beauty,3,75.28,North,In-store,4.0,225.84
+ORD00415,CUST0019,2025-01-12,Dumbbells,Sports,4,83.73,North,Mobile App,2.0,334.92
+ORD00416,CUST0091,2026-03-09,Smartwatch,Electronics,1,8.83,West,Online,2.0,8.83
+ORD00417,CUST0061,2026-09-11,Jacket,Clothing,1,70.25,West,In-store,5.0,70.25
+ORD00418,CUST0075,2025-03-19,T-shirt,Clothing,1,82.63,South,Mobile App,3.0,82.63
+ORD00419,CUST0062,2025-07-09,Water Bottle,Sports,2,61.73,South,In-store,3.0,123.46
+ORD00420,CUST0121,2025-11-20,Headphones,Electronics,1,138.21,West,Online,4.0,138.21
+ORD00421,CUST0123,2026-08-15,Dumbbells,Sports,4,46.89,West,Online,1.0,187.56
+ORD00422,CUST0084,2026-03-19,Keyboard,Electronics,2,190.51,West,Mobile App,5.0,381.02
+ORD00423,CUST0035,2026-05-04,Resistance Bands,Sports,2,84.21,East,Online,4.0,168.42
+ORD00424,CUST0101,2026-01-06,T-shirt,Clothing,3,29.53,West,In-store,1.0,88.59
+ORD00425,CUST0095,2025-09-24,Yoga Mat,Sports,3,49.28,South,Online,4.0,147.84
+ORD00426,CUST0107,2025-05-08,Sunscreen,Beauty,1,21.86,West,In-store,4.0,21.86
+ORD00427,CUST0044,2026-07-06,Dumbbells,Sports,2,79.94,East,Mobile App,1.0,159.88
+ORD00428,CUST0027,2026-05-29,Moisturizer,Beauty,3,89.41,North,In-store,5.0,268.23
+ORD00429,CUST0140,2025-01-17,Jeans,Clothing,4,38.53,East,Online,4.0,154.12
+ORD00430,CUST0137,2026-04-02,Moisturizer,Beauty,1,38.71,East,In-store,2.0,38.71
+ORD00431,CUST0135,2025-02-23,Sunscreen,Beauty,2,10.96,East,Online,2.0,21.92
+ORD00432,CUST0075,2026-04-17,Jeans,Clothing,3,38.88,South,In-store,3.0,116.64000000000001
+ORD00433,CUST0123,2026-06-11,T-shirt,Clothing,4,68.38,South,Mobile App,3.0,273.52
+ORD00434,CUST0100,2025-03-25,Smartwatch,Electronics,4,131.53,West,Online,4.0,526.12
+ORD00435,CUST0039,2025-10-04,Bottle,Home & Kitchen,1,48.45,West,Online,1.0,48.45
+ORD00436,CUST0027,2025-03-20,Yoga Mat,Sports,4,79.36,West,Online,5.0,317.44
+ORD00437,CUST0131,2025-12-28,Jacket,Clothing,4,63.54,East,Online,4.0,254.16
+ORD00438,CUST0077,2026-08-15,Shampoo,Beauty,4,44.81,South,Online,2.0,179.24
+ORD00439,CUST0146,2025-02-21,Cookware,Home & Kitchen,4,26.02,North,Online,1.0,104.08
+ORD00440,CUST0079,2025-09-11,Keyboard,Electronics,4,114.67,South,In-store,1.0,458.68
+ORD00441,CUST0122,2026-09-13,Lamp,Home & Kitchen,4,35.2,South,Online,2.0,140.8
+ORD00442,CUST0024,2025-07-12,Moisturizer,Beauty,3,16.62,East,Online,5.0,49.86
+ORD00443,CUST0084,2025-03-26,Jacket,Clothing,1,33.4,South,Online,4.0,33.4
+ORD00444,CUST0014,2025-11-08,Lamp,Home & Kitchen,1,65.07,West,Mobile App,1.0,65.07
+ORD00445,CUST0115,2025-11-21,Smartwatch,Electronics,1,84.44,West,Online,4.0,84.44
+ORD00446,CUST0142,2026-02-27,Bottle,Home & Kitchen,1,7.8,North,Mobile App,4.0,7.8
+ORD00447,CUST0133,2025-07-20,Keyboard,Electronics,3,177.07,West,In-store,3.0,531.21
+ORD00448,CUST0113,2026-09-02,Storage Box,Home & Kitchen,3,60.49,East,Online,1.0,181.47
+ORD00449,CUST0142,2025-11-29,Headphones,Electronics,3,102.4,East,Mobile App,5.0,307.20000000000005
+ORD00450,CUST0033,2025-07-02,Keyboard,Electronics,4,177.5,North,In-store,1.0,710.0
+ORD00451,CUST0098,2026-09-05,T-shirt,Clothing,3,48.69,South,Online,3.0,146.07
+ORD00452,CUST0034,2026-08-14,Smartwatch,Electronics,1,143.21,South,In-store,2.0,143.21
+ORD00453,CUST0081,2025-11-15,Cookware,Home & Kitchen,3,84.47,South,Mobile App,4.0,253.41
+ORD00454,CUST0122,2025-01-16,Shampoo,Beauty,1,89.02,North,In-store,3.0,89.02
+ORD00455,CUST0102,2026-01-16,Jeans,Clothing,3,70.48,West,In-store,4.0,211.44
+ORD00456,CUST0042,2025-12-21,Bottle,Home & Kitchen,1,15.12,East,In-store,2.0,15.12
+ORD00457,CUST0025,2025-04-05,Headphones,Electronics,4,17.53,West,In-store,3.0,70.12
+ORD00458,CUST0079,2026-02-09,Smartwatch,Electronics,1,126.44,West,Online,3.0,126.44
+ORD00459,CUST0044,2026-06-21,Water Bottle,Sports,4,62.73,North,Mobile App,5.0,250.92
+ORD00460,CUST0037,2025-03-09,Face Wash,Beauty,4,44.54,West,In-store,5.0,178.16
+ORD00461,CUST0068,2026-04-07,Headphones,Electronics,4,106.11,West,In-store,2.0,424.44
+ORD00462,CUST0079,2025-03-31,Cookware,Home & Kitchen,3,27.99,East,Mobile App,1.0,83.97
+ORD00463,CUST0066,2026-04-23,Sneakers,Clothing,3,25.86,North,In-store,5.0,77.58
+ORD00464,CUST0108,2025-09-25,Smartwatch,Electronics,1,170.71,East,Online,2.0,170.71
+ORD00465,CUST0049,2025-01-05,Moisturizer,Beauty,2,69.43,West,In-store,5.0,138.86
+ORD00466,CUST0147,2026-09-09,Moisturizer,Beauty,2,43.92,East,Online,3.0,87.84
+ORD00467,CUST0063,2025-04-16,Keyboard,Electronics,2,34.26,South,In-store,2.0,68.52
+ORD00468,CUST0134,2026-01-16,Smartwatch,Electronics,4,139.75,North,Online,1.0,559.0
+ORD00469,CUST0033,2025-04-26,Headphones,Electronics,4,66.21,South,In-store,3.0,264.84
+ORD00470,CUST0048,2026-08-19,Power Bank,Electronics,1,27.84,South,In-store,2.0,27.84
+ORD00471,CUST0004,2026-04-17,Smartwatch,Electronics,2,207.57,North,Online,1.0,415.14
+ORD00472,CUST0097,2026-05-29,Water Bottle,Sports,1,57.5,East,Online,5.0,57.5
+ORD00473,CUST0031,2025-10-03,Water Bottle,Sports,2,57.96,South,Online,3.0,115.92
+ORD00474,CUST0073,2025-10-26,Smartwatch,Electronics,4,219.38,East,Mobile App,4.0,877.52
+ORD00475,CUST0139,2026-02-09,Power Bank,Electronics,2,128.38,East,Online,3.0,256.76
+ORD00476,CUST0050,2026-05-16,Bottle,Home & Kitchen,3,43.78,West,Mobile App,2.0,131.34
+ORD00477,CUST0107,2026-06-25,Power Bank,Electronics,2,219.87,North,Online,1.0,439.74
+ORD00478,CUST0039,2025-01-12,Power Bank,Electronics,3,133.04,South,Online,3.0,399.12
+ORD00479,CUST0090,2026-02-28,Shampoo,Beauty,3,22.65,East,Mobile App,5.0,67.94999999999999
+ORD00480,CUST0107,2025-03-11,T-shirt,Clothing,3,32.33,West,Online,2.0,96.99
+ORD00481,CUST0034,2025-07-03,Resistance Bands,Sports,4,74.26,North,Online,4.0,297.04
+ORD00482,CUST0004,2026-06-14,Sneakers,Clothing,2,72.86,East,Online,5.0,145.72
+ORD00483,CUST0023,2025-06-09,Shampoo,Beauty,1,82.64,East,Online,4.0,82.64
+ORD00484,CUST0103,2026-05-24,Keyboard,Electronics,1,60.56,North,Mobile App,4.0,60.56
+ORD00485,CUST0089,2025-10-23,Keyboard,Electronics,3,62.52,East,Online,5.0,187.56
+ORD00486,CUST0039,2025-05-29,Cookware,Home & Kitchen,2,20.58,North,Online,4.0,41.16
+ORD00487,CUST0076,2025-08-02,Yoga Mat,Sports,4,74.66,East,In-store,2.0,298.64
+ORD00488,CUST0125,2025-12-05,Dumbbells,Sports,3,57.16,East,In-store,1.0,171.48
+ORD00489,CUST0037,2026-05-04,Keyboard,Electronics,3,20.87,East,Online,2.0,62.61
+ORD00490,CUST0022,2026-01-22,Moisturizer,Beauty,3,74.86,West,In-store,3.0,224.57999999999998
+ORD00491,CUST0099,2026-08-19,Sneakers,Clothing,4,22.86,West,Online,4.0,91.44
+ORD00492,CUST0043,2026-07-08,Lamp,Home & Kitchen,4,25.81,North,Mobile App,1.0,103.24
+ORD00493,CUST0017,2026-04-26,Storage Box,Home & Kitchen,3,11.76,West,Online,2.0,35.28
+ORD00494,CUST0080,2026-01-20,Moisturizer,Beauty,4,64.35,West,Mobile App,4.0,257.4
+ORD00495,CUST0049,2025-07-04,Smartwatch,Electronics,3,57.75,South,In-store,3.0,173.25
+ORD00496,CUST0063,2025-09-21,Bottle,Home & Kitchen,2,31.7,South,Mobile App,2.0,63.4
+ORD00497,CUST0057,2025-03-17,Cookware,Home & Kitchen,3,72.14,North,Online,2.0,216.42000000000002
+ORD00498,CUST0108,2025-08-27,Water Bottle,Sports,1,65.02,West,Online,1.0,65.02
+ORD00499,CUST0057,2026-08-15,Lamp,Home & Kitchen,4,83.56,West,Online,2.0,334.24
+ORD00500,CUST0048,2025-09-29,Water Bottle,Sports,3,44.18,East,Online,5.0,132.54
+ORD00501,CUST0015,2025-03-14,Yoga Mat,Sports,2,60.12,West,In-store,5.0,120.24
+ORD00502,CUST0127,2026-02-20,Bottle,Home & Kitchen,2,17.89,East,In-store,2.0,35.78
+ORD00503,CUST0037,2026-09-07,Jeans,Clothing,1,80.04,South,Online,5.0,80.04
+ORD00504,CUST0010,2026-07-08,Smartwatch,Electronics,2,163.1,South,Mobile App,1.0,326.2
+ORD00505,CUST0109,2025-06-24,Face Wash,Beauty,3,78.87,West,Online,1.0,236.61
+ORD00506,CUST0036,2025-10-17,Bottle,Home & Kitchen,3,27.72,North,In-store,1.0,83.16
+ORD00507,CUST0115,2025-12-05,Shampoo,Beauty,4,31.88,North,Online,4.0,127.52
+ORD00508,CUST0026,2025-06-08,Resistance Bands,Sports,3,79.36,North,Mobile App,5.0,238.07999999999998
+ORD00509,CUST0008,2025-06-21,Jeans,Clothing,4,12.1,South,Online,1.0,48.4
+ORD00510,CUST0009,2025-05-31,Resistance Bands,Sports,1,21.61,East,In-store,4.0,21.61
+ORD00511,CUST0050,2026-09-27,Cookware,Home & Kitchen,3,59.95,North,Mobile App,2.0,179.85000000000002
+ORD00512,CUST0090,2026-04-21,Jacket,Clothing,2,65.45,North,In-store,3.0,130.9
+ORD00513,CUST0101,2026-06-21,Keyboard,Electronics,4,65.37,South,Online,5.0,261.48
+ORD00514,CUST0010,2026-06-05,T-shirt,Clothing,2,43.61,East,In-store,1.0,87.22
+ORD00515,CUST0104,2026-09-04,Headphones,Electronics,3,208.12,South,Mobile App,3.0,624.36
+ORD00516,CUST0076,2025-03-09,Keyboard,Electronics,1,160.93,East,Online,5.0,160.93
+ORD00517,CUST0057,2026-07-17,Sunscreen,Beauty,1,30.78,North,Mobile App,1.0,30.78
+ORD00518,CUST0006,2025-02-12,Sunscreen,Beauty,1,59.36,North,Mobile App,4.0,59.36
+ORD00519,CUST0001,2025-10-31,Smartwatch,Electronics,2,134.89,South,Online,2.0,269.78
+ORD00520,CUST0128,2026-01-15,T-shirt,Clothing,1,10.97,West,Online,5.0,10.97
+ORD00521,CUST0145,2025-08-17,Yoga Mat,Sports,1,17.12,East,In-store,1.0,17.12
+ORD00522,CUST0082,2025-04-04,Headphones,Electronics,3,47.97,West,Mobile App,4.0,143.91
+ORD00523,CUST0107,2025-05-03,Cookware,Home & Kitchen,1,88.69,East,Online,1.0,88.69
+ORD00524,CUST0006,2026-06-11,Jacket,Clothing,4,5.37,East,Online,5.0,21.48
+ORD00525,CUST0027,2025-07-23,Storage Box,Home & Kitchen,4,9.9,North,In-store,1.0,39.6
+ORD00526,CUST0044,2025-07-17,Headphones,Electronics,4,69.12,East,In-store,1.0,276.48
+ORD00527,CUST0098,2026-08-13,Moisturizer,Beauty,1,37.98,East,Online,3.0,37.98
+ORD00528,CUST0047,2025-04-02,Resistance Bands,Sports,1,69.73,West,In-store,5.0,69.73
+ORD00529,CUST0063,2026-08-07,Yoga Mat,Sports,4,5.31,North,Online,5.0,21.24
+ORD00530,CUST0146,2026-08-11,Sneakers,Clothing,1,64.61,West,Online,3.0,64.61
+ORD00531,CUST0054,2026-01-17,Shampoo,Beauty,2,6.1,South,Online,5.0,12.2
+ORD00532,CUST0044,2025-04-16,Sunscreen,Beauty,2,69.59,North,Mobile App,1.0,139.18
+ORD00533,CUST0030,2025-04-10,Cookware,Home & Kitchen,2,60.09,South,Online,2.0,120.18
+ORD00534,CUST0078,2025-07-01,Bottle,Home & Kitchen,1,13.49,North,Mobile App,1.0,13.49
+ORD00535,CUST0054,2026-01-04,Jacket,Clothing,1,32.38,West,In-store,4.0,32.38
+ORD00536,CUST0133,2025-04-09,Jacket,Clothing,4,14.76,South,Mobile App,2.0,59.04
+ORD00537,CUST0071,2025-10-18,Water Bottle,Sports,2,87.57,East,Online,5.0,175.14
+ORD00538,CUST0014,2025-03-15,Headphones,Electronics,2,178.45,West,In-store,2.0,356.9
+ORD00539,CUST0012,2025-12-11,Smartwatch,Electronics,1,155.58,North,Online,5.0,155.58
+ORD00540,CUST0147,2025-01-14,Keyboard,Electronics,2,48.02,South,Online,5.0,96.04
+ORD00541,CUST0090,2026-03-29,Water Bottle,Sports,2,59.54,East,In-store,3.0,119.08
+ORD00542,CUST0022,2025-02-05,Jeans,Clothing,4,50.34,West,In-store,1.0,201.36
+ORD00543,CUST0042,2025-05-05,Headphones,Electronics,1,27.98,North,In-store,1.0,27.98
+ORD00544,CUST0020,2025-04-22,Jeans,Clothing,3,12.66,South,In-store,2.0,37.980000000000004
+ORD00545,CUST0074,2026-06-15,Bottle,Home & Kitchen,3,46.39,West,In-store,5.0,139.17000000000002
+ORD00546,CUST0021,2025-02-04,Sneakers,Clothing,2,7.25,South,Online,2.0,14.5
+ORD00547,CUST0108,2025-10-01,Resistance Bands,Sports,1,9.03,North,Online,3.0,9.03
+ORD00548,CUST0121,2026-01-13,Keyboard,Electronics,3,205.88,East,In-store,3.0,617.64
+ORD00549,CUST0010,2025-11-26,Sneakers,Clothing,2,67.68,North,Online,4.0,135.36
+ORD00550,CUST0120,2026-03-11,Power Bank,Electronics,2,100.02,North,In-store,5.0,200.04
+ORD00551,CUST0061,2026-05-28,Shampoo,Beauty,4,77.15,East,Online,1.0,308.6
+ORD00552,CUST0012,2025-09-09,T-shirt,Clothing,4,7.23,South,Online,2.0,28.92
+ORD00553,CUST0133,2026-06-13,Storage Box,Home & Kitchen,3,29.85,East,Online,4.0,89.55000000000001
+ORD00554,CUST0105,2025-07-22,Power Bank,Electronics,4,29.94,South,Mobile App,4.0,119.76
+ORD00555,CUST0117,2026-09-21,Storage Box,Home & Kitchen,4,38.38,North,Online,5.0,153.52
+ORD00556,CUST0045,2025-11-18,Jeans,Clothing,1,47.12,East,In-store,3.0,47.12
+ORD00557,CUST0101,2026-04-15,Bottle,Home & Kitchen,1,32.04,South,In-store,5.0,32.04
+ORD00558,CUST0088,2026-07-13,Jacket,Clothing,3,33.08,South,Online,4.0,99.24
+ORD00559,CUST0134,2026-05-21,Sneakers,Clothing,1,8.09,West,Online,2.0,8.09
+ORD00560,CUST0099,2026-06-28,Sneakers,Clothing,3,5.86,East,Mobile App,3.0,17.580000000000002
+ORD00561,CUST0130,2025-12-09,Jacket,Clothing,1,83.4,East,Online,3.0,83.4
+ORD00562,CUST0079,2025-01-28,Cookware,Home & Kitchen,3,85.29,North,Online,2.0,255.87
+ORD00563,CUST0147,2025-11-11,Face Wash,Beauty,1,7.41,East,Mobile App,5.0,7.41
+ORD00564,CUST0072,2025-04-26,Power Bank,Electronics,1,154.69,West,Mobile App,1.0,154.69
+ORD00565,CUST0137,2026-07-22,Storage Box,Home & Kitchen,2,79.63,West,In-store,2.0,159.26
+ORD00566,CUST0119,2025-06-01,Lamp,Home & Kitchen,2,13.57,West,In-store,1.0,27.14
+ORD00567,CUST0045,2025-05-26,Smartwatch,Electronics,2,57.2,East,Mobile App,4.0,114.4
+ORD00568,CUST0075,2025-06-09,Dumbbells,Sports,1,78.17,South,Online,4.0,78.17
+ORD00569,CUST0080,2026-02-14,Keyboard,Electronics,2,26.31,West,Mobile App,3.0,52.62
+ORD00570,CUST0136,2025-12-31,Storage Box,Home & Kitchen,4,52.4,South,Online,2.0,209.6
+ORD00571,CUST0050,2026-08-29,Cookware,Home & Kitchen,4,32.4,North,In-store,2.0,129.6
+ORD00572,CUST0133,2025-09-23,Smartwatch,Electronics,2,16.57,North,Online,5.0,33.14
+ORD00573,CUST0114,2025-06-30,Storage Box,Home & Kitchen,3,32.89,West,In-store,5.0,98.67
+ORD00574,CUST0024,2025-02-01,Keyboard,Electronics,3,15.44,East,Mobile App,4.0,46.32
+ORD00575,CUST0004,2025-01-05,Dumbbells,Sports,1,72.31,South,Mobile App,2.0,72.31
+ORD00576,CUST0014,2025-08-27,Sneakers,Clothing,1,68.86,North,Online,4.0,68.86
+ORD00577,CUST0146,2026-08-14,Jacket,Clothing,4,42.33,South,In-store,3.0,169.32
+ORD00578,CUST0121,2025-12-01,Storage Box,Home & Kitchen,2,41.75,South,Mobile App,5.0,83.5
+ORD00579,CUST0067,2026-07-25,Bottle,Home & Kitchen,2,64.95,West,In-store,3.0,129.9
+ORD00580,CUST0046,2025-03-06,Sunscreen,Beauty,3,62.49,West,In-store,2.0,187.47
+ORD00581,CUST0001,2025-03-01,Lamp,Home & Kitchen,4,77.76,East,Online,3.0,311.04
+ORD00582,CUST0052,2026-06-16,Moisturizer,Beauty,4,69.46,South,Online,5.0,277.84
+ORD00583,CUST0001,2025-03-10,Storage Box,Home & Kitchen,2,59.81,East,In-store,4.0,119.62
+ORD00584,CUST0070,2025-02-03,Moisturizer,Beauty,2,62.92,East,In-store,5.0,125.84
+ORD00585,CUST0146,2025-09-15,Resistance Bands,Sports,1,83.11,West,In-store,5.0,83.11
+ORD00586,CUST0080,2026-08-14,Lamp,Home & Kitchen,1,70.06,East,Online,5.0,70.06
+ORD00587,CUST0076,2026-03-16,Jacket,Clothing,4,41.75,North,Online,2.0,167.0
+ORD00588,CUST0147,2025-03-05,T-shirt,Clothing,4,9.14,North,Online,3.0,36.56
+ORD00589,CUST0120,2026-06-19,Sunscreen,Beauty,2,24.41,East,Online,2.0,48.82
+ORD00590,CUST0082,2026-06-23,Resistance Bands,Sports,2,51.25,South,Online,2.0,102.5
+ORD00591,CUST0073,2026-05-26,T-shirt,Clothing,2,89.8,North,Mobile App,3.0,179.6
+ORD00592,CUST0023,2026-07-30,Lamp,Home & Kitchen,4,34.24,South,Mobile App,2.0,136.96
+ORD00593,CUST0139,2025-06-03,Cookware,Home & Kitchen,3,57.93,East,In-store,4.0,173.79
+ORD00594,CUST0044,2026-09-17,Resistance Bands,Sports,3,20.68,South,Mobile App,5.0,62.04
+ORD00595,CUST0126,2025-07-24,T-shirt,Clothing,3,31.08,West,Online,2.0,93.24
+ORD00596,CUST0090,2026-05-27,Jeans,Clothing,2,32.4,North,Online,5.0,64.8
+ORD00597,CUST0012,2026-01-05,Sunscreen,Beauty,1,70.09,West,Online,3.0,70.09
+ORD00598,CUST0149,2026-05-13,Dumbbells,Sports,3,73.06,North,Mobile App,3.0,219.18
+ORD00599,CUST0121,2026-02-05,T-shirt,Clothing,2,32.89,West,Online,2.0,65.78
+ORD00600,CUST0112,2026-02-14,Resistance Bands,Sports,1,78.9,South,Online,5.0,78.9
